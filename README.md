@@ -396,7 +396,7 @@ O Rondoscópio adota como **referência de investigação e monitoramento** os 1
 - **Meta 17.18:** indicadores 17.18.1, 17.18.2, 17.18.3.
 - **Meta 17.19:** indicadores 17.19.1, 17.19.2.
 
-**Nota de cobertura:** a meta 11.c tem sua identificação própria e foi mantida no catálogo de 169 metas mesmo sem um indicador global associado na fonte de referência. Os registros repetidos foram preservados conforme a vinculação a cada meta, sem somar indevidamente os 251 registros como 251 métricas independentes.
+**Nota de cobertura:** o inventário de 2026 inclui a meta 11.c e o indicador 11.c.1, relativo ao apoio oficial à infraestrutura urbana. Registros associados a mais de uma meta foram preservados como ocorrências distintas, sem somar indevidamente os 251 registros como 251 métricas independentes.
 
 ## União Europeia: 102 indicadores e acompanhamento do Eurostat
 
