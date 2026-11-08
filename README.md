@@ -26,9 +26,10 @@ Os **objetivos institucionais, princípios e critérios de investigação** pert
 - [Objetivos institucionais](https://github.com/Rondoscopio/constituicao/blob/main/parts/01-identidade/005-objetivos.md)
 - [Indicadores e séries históricas](https://github.com/Rondoscopio/constituicao/blob/main/parts/05-metodologia/011-indicadores-e-series-historicas.md)
 - [Referenciais internacionais](https://github.com/Rondoscopio/constituicao/blob/main/parts/14-referencias/010-referenciais-internacionais.md)
-- [Proposta de centralização do escopo detalhado e dos catálogos ODS/ONU, Eurostat, GAO, Performance.gov e IEGM](https://github.com/Rondoscopio/constituicao/pull/5)
+- [Áreas de atuação e objetivos de fiscalização](https://github.com/Rondoscopio/constituicao/blob/main/parts/01-identidade/008-areas-de-atuacao-e-objetivos-de-fiscalizacao.md)
+- [Catálogo de metas, indicadores e referenciais de fiscalização](https://github.com/Rondoscopio/constituicao/blob/main/parts/05-metodologia/022-catalogo-de-metas-e-indicadores.md)
 
-O detalhamento documental está em revisão no repositório da Constituição. As referências internacionais orientam a pesquisa e não se convertem automaticamente em obrigações legais locais.
+As referências internacionais orientam a pesquisa e não se convertem automaticamente em obrigações legais locais.
 
 ## Informação e responsabilidade editorial
 
