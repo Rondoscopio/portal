@@ -47,7 +47,7 @@ As páginas deverão indicar as fontes, o período de referência, a data de atu
 
 Denúncias, investigações e imputações relevantes somente poderão ser publicadas após apuração e revisão humana, com avaliação do contexto, proteção de fontes e dados pessoais, contraditório e direito de resposta. Correções substanciais deverão permanecer identificáveis no histórico editorial.
 
-O **Observador** reunirá e preservará registros, o **Córtex** realizará análises e verificações, a **Ouvidoria** receberá e tratará manifestações, e o **Portal** divulgará informações autorizadas para acesso público.
+O **Amnésia** reunirá e preservará registros, o **Córtex** realizará análises e verificações, a **Ouvidoria** receberá e tratará manifestações, e o **Portal** divulgará informações autorizadas para acesso público.
 
 **Projeto em planejamento.** Os recursos descritos são objetivos, não funcionalidades já implementadas.
 
